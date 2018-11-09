@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="persinalproject" />
+        <module name="insertSort" />
+        <module name="selectSort" />
       </profile>
     </annotationProcessing>
   </component>
