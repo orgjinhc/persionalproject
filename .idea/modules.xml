@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/insertSort/insertSort.iml" filepath="$PROJECT_DIR$/insertSort/insertSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectSort/selectSort.iml" filepath="$PROJECT_DIR$/selectSort/selectSort.iml" />
+    </modules>
+  </component>
+</project>
